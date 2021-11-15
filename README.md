@@ -99,9 +99,10 @@ XBlog是一款基于前后端分离模式开发的二次元多端博客系统，
 ###  🔗常逛的网站
 
 <p align="center">
-<a target="_blank" url="https://www.bilibili.com/"><img src="https://img.shields.io/badge/Bilibili-宅男快乐网-00A1D6?style=for-the-badge&logo=Bilibili&labelColor=ffffff"/></a>
+<a target="_blank" url="https://www.bilibili.com/"><img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99%E5%A4%A7%E5%AD%A6-00A1D6?style=for-the-badge&logo=Bilibili&labelColor=ffffff"/></a>
 <a target="_blank" url="https://github.com/"><img src="https://img.shields.io/badge/GitHub-程序员交友平台-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=ffffff"/></a>
 <a target="_blank" url="https://www.zhihu.com/"><img src="https://img.shields.io/badge/知乎-大型装逼社区-0084FF?style=for-the-badge&logo=ZhiHu&logoColor=0084FF&labelColor=ffffff"/></a>
+<a target="_blank" url="https://www.zhihu.com/"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E6%8A%80%E6%9C%AF%E5%AE%A2-0084FF?style=for-the-badge&logo=Juejin&logoColor=0084FF&labelColor=ffffff"/></a>	
 </p>
 
 ### 🥳 个人GitHub统计
