@@ -8,7 +8,7 @@
 |  项目名字 | 介绍 | star数                                                       |
 |  :----:  | :----:  |  ------  |
 | 程序员书籍笔记 | [个人知识学习笔记](https://github.com/xiaoyou66/code-learn) | <img src="https://img.shields.io/github/stars/xiaoyou66/code-learn?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
-| kratos | [一款二次元wordpress主题](https://github.com/ranyong1997/personal_page) | <img src="https://img.shields.io/github/stars/xiaoyou66/kratos?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
+| 个人介绍 | [个人介绍](https://github.com/ranyong1997/personal_page) | <img src="https://img.shields.io/github/stars/xiaoyou66/kratos?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 
 上面这些只是我花的时间多一点的项目，还有很多项目因为代码量太少就没贴了。。。
 
