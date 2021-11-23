@@ -5,38 +5,27 @@
 
 ### 👨‍💻 我的开源项目
 
-|  项目名字 | 介绍 | star数                                                       |
-|  :----:  | :----:  |  ------  |
-| 程序员书籍笔记 | [个人知识学习笔记](https://github.com/xiaoyou66/code-learn) | <img src="https://img.shields.io/github/stars/xiaoyou66/code-learn?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
-| 个人介绍 | [个人介绍](https://github.com/ranyong1997/personal_page) | <img src="https://img.shields.io/github/stars/xiaoyou66/kratos?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
+|  项目名字 | 介绍 |
+|  :----:  | :----:  |
+| 程序员书籍笔记 | [🌸博客](http://sakura.daydayupran.top/) |
+| 个人介绍 | [个人介绍](https://github.com/ranyong1997/personal_page) |
 
 上面这些只是我花的时间多一点的项目，还有很多项目因为代码量太少就没贴了。。。
 
 ### 🍨 Sakura博客
 
-待补充
+仅一个博客，很感谢路上给予帮助的朋友，里面会分享一些个人学习产出文档。
 
-- [x] docker自动部署
-- [ ] 实现插件功能
-- [ ] 添加PHP版本
-- [ ] 实现主题功能
+- [x] 博客搭建
+- [ ] HTTPS域名
+- [ ] 暗色模式
+- [ ] 自动化部署
 
 ### 🧐本人使用过的语言
 
 <p align="center">
-	<img src="https://img.shields.io/badge/GO-1.14-00acd7?logo=Go&logoColor=00acd7"/>
-	<img src="https://img.shields.io/badge/Java-8-e0161a?logo=Java&logoColor=e0161a"/>
 	<img src="https://img.shields.io/badge/JavaScript-es6-efd81d?logo=JavaScript&logoColor=efd81d"/>
-    <img src="https://img.shields.io/badge/Kotlin-1.14-eb7e21?logo=Kotlin&logoColor=eb7e21"/>
 	<img src="https://img.shields.io/badge/Python-3.7-326c9c?logo=Python&logoColor=326c9c"/>
-	<img src="https://img.shields.io/badge/PHP-7.2-777bb3?logo=PHP&logoColor=777bb3"/>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/badge/C/C++-11-659ad2?logo=C%2B%2B&logoColor=659ad2"/>
-	<img src="https://img.shields.io/badge/C%23-4.0-2c006c?logo=c%20Sharp&logoColor=2c006c"/>
-	<img src="https://img.shields.io/badge/Lua-5.0-000080?logo=Lua&logoColor=000080"/>
-    <img src="https://img.shields.io/badge/Ruby-3.0-f70f19?logo=Ruby&logoColor=f70f19"/>
-    <img src="https://img.shields.io/badge/Shell-1.0-3e484a?logo=GNU%20Bash&logoColor=ffffff"/>
 </p>
 
 ### 💻使用过的平台或系统
@@ -45,13 +34,9 @@
 <img src="https://img.shields.io/badge/Android--0?style=social&logo=Android&logoColor=3DDC84"/>
 <img src="https://img.shields.io/badge/Windows10--0?style=social&logo=Windows&logoColor=0078D6"/>
 <img src="https://img.shields.io/badge/Centos7--0?style=social&logo=Centos&logoColor=262577"/>
-<img src="https://img.shields.io/badge/Ubuntu--0?style=social&logo=Ubuntu&logoColor=E95420"/>
-<img src="https://img.shields.io/badge/Kali--0?style=social&logo=Kali%20Linux&logoColor=E95420"/>
-<img src="https://img.shields.io/badge/Raspberry Pi--0?style=social&logo=Raspberry%20Pi&logoColor=A22846"/>
+<img src="https://img.shields.io/badge/MacOS--0?style=social&logo=MacOs&logoColor=00979D"/>
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/Arduino--0?style=social&logo=Arduino&logoColor=00979D"/>
-</p>
+
 
 ### 🔧常用的工具或软件
 
