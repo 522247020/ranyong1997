@@ -76,8 +76,6 @@
 </p>
 
 ### 🥳 个人GitHub统计
-<p align="center">
 |                          GitHub状态                          |                        使用最多的语言                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ranyong1997&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranyong1997&&hide=tsql) |
-<p>
