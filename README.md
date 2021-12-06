@@ -43,11 +43,7 @@
 ### 🔧常用的工具或软件
 
 <p align="center">
-<img src="https://img.shields.io/badge/Androidstudio-安卓开发-3DDC84?style=flat-square&logo=Android%20Studio&labelColor=ffffff&logoColor=3DDC84"/>
-<img src="https://img.shields.io/badge/IDEA-Java开发-fd6430?style=flat-square&logo=IntelliJ%20IDEA&labelColor=ffffff&logoColor=000000"/>
-<img src="https://img.shields.io/badge/WebStorm-vue开发-07c3f2?style=flat-square&logo=WebStorm&labelColor=ffffff&logoColor=000000"/>
 <img src="https://img.shields.io/badge/PyCharm-Python开发-21d789?style=flat-square&logo=PyCharm&labelColor=ffffff&logoColor=000000"/>
-<img src="https://img.shields.io/badge/PhpStorm-PHP开发-21d789?style=flat-square&logo=PhpStorm&labelColor=ffffff&logoColor=000000"/>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/VsCode-软件开发-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC"/>
