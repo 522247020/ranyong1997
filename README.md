@@ -11,6 +11,7 @@
 | 个人介绍 | [个人介绍](https://github.com/ranyong1997/personal_page) |
 | Api_Automator | [接口自动化](https://github.com/ranyong1997/Api_Automator) |
 | Auto_JS脚本开发 | [AutoJS](https://github.com/ranyong1997/AutoJS) |
+| Auto_Uiautomator2 | [UI自动化](https://github.com/ranyong1997/Auto_Uiautomator2) |
 
 
 
