@@ -31,6 +31,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/JavaScript-es6-efd81d?logo=JavaScript&logoColor=efd81d"/>
 	<img src="https://img.shields.io/badge/Python-3.7-326c9c?logo=Python&logoColor=326c9c"/>
+	<img src="https://img.shields.io/github/go-mod/go-version/gohugoio/hugo?style=plastic"/>
 </p>
 
 ### 💻使用过的平台或系统
