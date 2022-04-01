@@ -11,9 +11,11 @@
 | 个人介绍 | [个人介绍](https://github.com/ranyong1997/personal_page) |
 | Api_Automator | [接口自动化](https://github.com/ranyong1997/Api_Automator) |
 | Auto_JS脚本开发 | [AutoJS](https://github.com/ranyong1997/AutoJS) |
-| Auto_Uiautomator2 | [UI自动化](https://github.com/ranyong1997/Auto_Uiautomator2) |
+| Auto_Uiautomator2 | [App自动化](https://github.com/ranyong1997/Auto_Uiautomator2) |
 | 测试平台 | [测试平台和后台管理](https://github.com/ranyong1997/Sakura_Infinity) |
 | 慕课网刷课 | [利用接口完成秒刷](https://github.com/ranyong1997/sk) |
+| Auto_UiAutomator_Web | [Web自动化](https://github.com/ranyong1997/Sakura_UiAutomator_Web) |
+
 
 
 
