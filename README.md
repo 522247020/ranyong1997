@@ -15,7 +15,7 @@
 | 测试平台 | [测试平台和后台管理](https://github.com/ranyong1997/Sakura_Infinity) |
 | 慕课网刷课 | [利用接口完成秒刷](https://github.com/ranyong1997/sk) |
 | Auto_UiAutomator_Web | [Web自动化](https://github.com/ranyong1997/Sakura_UiAutomator_Web) |
-
+| Fastapi后端模板 | [Fastapi后端模板](https://github.com/ranyong1997/fastapi-template) |
 
 
 
