@@ -1,13 +1,30 @@
-### 😆 主页浏览量
-![](https://count.getloli.com/get/@ranyong1997.github.readme)
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="www.baidu.com">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=春暖花开，百事可乐.;console.log(%22Hello%EF%BC%8CRanyong%22)">
+	  
+  </a>
+</h1>
 
-![](https://raw.githubusercontent.com/ranyong1997/image_collect/main/img/20211115230555.png)
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://unpkg.zhimg.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
+<br>
+
+### 😆 主页浏览量
+<div align="center">
+<img src='https://count.getloli.com/get/@ranyong1997.github.readme'>
+<!-- 贪吃蛇代码贡献图 -->
+<img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" />
+<!-- 产品分析图 -->
+<img src="https://raw.githubusercontent.com/ranyong1997/image_collect/main/img/20211115230555.png" />
+</div>
+
 
 ### 👨‍💻 我的开源项目
 
 |  项目名字 | 介绍 |
 |  :----:  | :----:  |
-| 程序员书籍笔记 | [🌸博客](http://sakura.daydayupran.top/) |
+| 程序员书籍笔记 | [🌸博客]~~(http://sakura.daydayupran.top/)~~ |
 | 个人介绍 | [个人介绍](https://github.com/ranyong1997/personal_page) |
 | Api_Automator | [接口自动化](https://github.com/ranyong1997/Api_Automator) |
 | Auto_JS脚本开发 | [AutoJS](https://github.com/ranyong1997/AutoJS) |
@@ -17,25 +34,14 @@
 | Auto_UiAutomator_Web | [Web自动化](https://github.com/ranyong1997/Sakura_UiAutomator_Web) |
 | Fastapi后端模板 | [Fastapi后端模板](https://github.com/ranyong1997/fastapi-template) |
 
-
-
-### 🍨 Sakura博客
-
-一个二次元风格博客，很感谢路上给予帮助的朋友@qsyyke，里面会分享一些个人学习产出文档。
-
-- [x] 博客搭建
-- [x] HTTPS域名
-- [x] 将存放在github的图片转移到gitee
-- [ ] 暗色模式
-- [x] 自动化部署
-- [x] 重新构建仓库
-
 ### 🧐本人使用过的语言
 
 <p align="center">
-	<img src="https://img.shields.io/badge/JavaScript-es6-efd81d?logo=JavaScript&logoColor=efd81d"/>
-	<img src="https://img.shields.io/badge/Python-3.7-326c9c?logo=Python&logoColor=326c9c"/>
-	<img src="https://img.shields.io/github/go-mod/go-version/gohugoio/hugo?style=plastic"/>
+	<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
+	<img src="https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker"/>
+	<img src="https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python"/>
+	<img src="https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js"/>
 </p>
 
 ### 💻使用过的平台或系统
@@ -47,7 +53,6 @@
 <img src="https://img.shields.io/badge/MacOS--0?style=social&logo=MacOs&logoColor=00979D"/>
 </p>
 
-
 ### 🔧常用的工具或软件
 
 <p align="center">
@@ -58,19 +63,15 @@
 <img src="https://img.shields.io/badge/MySQL-结构型数据库-4479A1?style=flat-square&logo=MySQL&labelColor=ffffff&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/MongoDB-文档型数据库-47A248?style=flat-square&logo=MongoDB&labelColor=ffffff&logoColor=47A248"/>
 </p>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Chrome-浏览器-4285F4?style=flat-square&logo=Google%20Chrome&labelColor=ffffff&logoColor=4285F4"/>
 <img src="https://img.shields.io/badge/Edge-浏览器-0078D7?style=flat-square&logo=Microsoft%20Edge&labelColor=ffffff&logoColor=0078D7"/>
 <img src="https://img.shields.io/badge/Steam-悠闲娱乐-000000?style=flat-square&logo=Steam&labelColor=ffffff&logoColor=000000"/>
 </p>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Premiere-视频剪辑-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&labelColor=ffffff&logoColor=9999FF"/>
 <img src="https://img.shields.io/badge/Photoshop-P图工具-31A8FF?style=flat-square&logo=Adobe%20Photoshop&labelColor=ffffff&logoColor=31A8FF"/>
-<img src="https://img.shields.io/badge/AE-后期制作-9999FF?style=flat-square&logo=Adobe%20After%20Effects&labelColor=ffffff&logoColor=9999FF"/>
 </p>
-
 
 ###  🔗常逛的网站
 
@@ -80,8 +81,29 @@
 <a target="_blank" url="https://www.zhihu.com/"><img src="https://img.shields.io/badge/知乎-大型装逼社区-0084FF?style=for-the-badge&logo=ZhiHu&logoColor=0084FF&labelColor=ffffff"/></a>
 <a target="_blank" url="https://www.zhihu.com/"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E6%8A%80%E6%9C%AF%E5%AE%A2-0084FF?style=for-the-badge&logo=Juejin&logoColor=0084FF&labelColor=ffffff"/></a>	
 </p>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/ranyong1997/image_collect@main/img/202211171438831.jpg" /></div>
 
-### 🥳 个人GitHub统计
-|                          GitHub状态                          |                        使用最多的语言                        |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ranyong1997&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranyong1997&&hide=tsql) |
+# 🚀 Action
+
+<!-- 连续提交代码天数记录 -->
+<p align="center">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/ranyong1997/image_collect@main/img/202211171422976.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranyong1997&theme=dark&hide_border=true" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/ranyong1997/image_collect@main/img/202211171422977.png" />
+</p>
+
+<!-- GitHub奖杯🏆 -->
+<div align="center">
+	<img  src="https://github-profile-trophy.vercel.app/?username=ranyong1997&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
+<br>
+
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ranyong1997&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranyong1997&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+<br>
+
+<!-- GitHub Activity Graph -->
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=ranyong1997&theme=xcode" /></div>
