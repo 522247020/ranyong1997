@@ -1,8 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="www.baidu.com">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=春暖花开，百事可乐.;console.log(%22Hello%EF%BC%8CRanyong%22)">
-	  
+  <a href="https://github.com/ranyong1997">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=春暖花开，百事可乐.;console.log(%22Hello%EF%BC%8CRanyong%22)">  
   </a>
 </h1>
 
